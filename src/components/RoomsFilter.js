@@ -72,7 +72,8 @@ function RoomFilter({rooms}) {
                     <div className="single-extra">
                         <input type="checkbox" name="pets" id="pets" checked={pets} onChange={handleChange} />
                         <label htmlFor="pets">pets</label>
-                    </div>pets        </div>
+                    </div>   
+                </div>
                 {/* end of extras */}
             </form>
         </section>
